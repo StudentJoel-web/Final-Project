@@ -1,0 +1,11 @@
+Commands = C
+These are the different options you have in game
+C north
+C south
+C east
+C west
+C take
+C drop
+C look
+C inventory
+C quit
